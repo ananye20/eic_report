@@ -36,8 +36,8 @@ Fields such as: INSURED_VALUE, PREMIUM, CLAIM_PAID, TYPE_VEHICLE, MAKE, USAGE, S
 ## Objective
 To analyze the operational challenges that contributed to EIC’s decline by identifying key financial inefficiencies, risk-heavy segments, and insurance trends. The dashboard provides an interactive tool for exploring loss drivers in a high-volume insurance dataset.
 
-## Contributions
-Anyone is invited to contribute ideas, feedback, or suggestions to further improve the analysis.
+## Brief Description of the Whole Report
+This Power BI report provides a comprehensive analysis of EIC Insurance’s business performance, focusing on key metrics such as premiums, claims, profitability, customer behavior, and risk exposure across various segments. The Profitability View offers a snapshot of profit margins by comparing revenue and costs, while the Annual Usage Breakdown reveals how insurance is utilized across years by vehicle type, usage, and manufacturing sector. Losses are examined through a waterfall chart showing annual loss trends by insurance type, with red indicating losses, green for profits, and dark grey for totals. Key financial indicators such as Total Premium, Total Claim, Profit-to-Cost Ratio, Premium-to-Claim Ratio, Average Premium, and Average Claim offer detailed insights into revenue and risk alignment. Claim Count tracks frequency over time, while a matrix visual comparing Usage of Insurance vs Years highlights Premium-to-Claim ratios using green, red, and blue to show profit, loss, and break-even periods. A sunburst chart breaks down premium drivers including vehicle type, usage, and manufacturing industry. Customer insights are captured through a bar chart showing policy count by vehicle type, and a rainbow chart visualizes which vehicles claim the most over the years. A scatterplot compares average claim vs premium across vehicle types and manufacturing companies to highlight high-risk or underpriced segments. Cumulative loss trends are explored through area charts segmented by year, gender, and vehicle type. A tree chart represents total losses contributed by different manufacturing companies. Together, these visuals offer a dynamic, data-driven view of EIC Insurance’s operations, empowering stakeholders to make informed decisions on pricing, underwriting, and risk strategy.
 
 ## Project Visual Highlights
 Below are some visuals of the report
@@ -56,8 +56,8 @@ Below are some visuals of the report
 
 Download the file to explore and analyze more. There's always an info button or help button on the top right of the visual in case if you don't understand anything or if it's your first time.
 
-
-
+## Contributions
+Anyone is invited to contribute ideas, feedback, or suggestions to further improve the analysis.
 
 
 
