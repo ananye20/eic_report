@@ -27,11 +27,11 @@ The dataset includes:
 Fields such as: INSURED_VALUE, PREMIUM, CLAIM_PAID, TYPE_VEHICLE, MAKE, USAGE, SEATS_NUM, CCM_TON, PROD_YEAR and more.
 
 ## Built With
-- Power BI Desktop – Data modeling and interactive visualizations
+- Power BI Desktop – Data modeling and interactive visualizations.
 
-- Power Query – Data cleansing and transformation
+- Power Query – Data cleansing and transformation.
 
-- DAX – Custom KPIs and time-based metrics
+- DAX – Custom KPIs and time-based metrics.
 
 ## Objective
 To analyze the operational challenges that contributed to EIC’s decline by identifying key financial inefficiencies, risk-heavy segments, and insurance trends. The dashboard provides an interactive tool for exploring loss drivers in a high-volume insurance dataset.
