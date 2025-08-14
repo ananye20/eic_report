@@ -13,7 +13,7 @@ This Power BI report analyzes the financial performance of Ethiopian Insurance C
 
 - Vehicle & Usage Behavior: Segmentation by make, capacity, usage purpose, and production year.
 
-- Loss Analysis: Analyzing cumulative loss over the years based on key factors
+- Loss Analysis: Analyzing cumulative loss over the years based on key factors.
 
 - Claims and Buyers: Identifying key buyers and claims over the years.
 
