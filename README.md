@@ -22,7 +22,7 @@ This Power BI report analyzes the financial performance of Ethiopian Insurance C
 ## Data Overview
 The dataset includes:
 
-500,000+ policy-level records
+500,000+ policy-level records.
 
 Fields such as: INSURED_VALUE, PREMIUM, CLAIM_PAID, TYPE_VEHICLE, MAKE, USAGE, SEATS_NUM, CCM_TON, PROD_YEAR and more.
 
