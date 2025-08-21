@@ -11,7 +11,7 @@ This Power BI report analyzes the financial performance of Ethiopian Insurance C
 
 - Premium to Claim Ratio Analysis: Evaluation of claims paid vs. premiums collected to highlight unprofitable segments.
 
-- Vehicle & Usage Behavior: Segmentation by make, capacity, usage purpose, and production year.
+- Vehicle & Usage Behavior: Segmentation by make, capacity, usage purpose, and production year
 
 - Loss Analysis: Analyzing cumulative loss over the years based on key factors.
 
